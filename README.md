@@ -3,4 +3,4 @@ The project is a top hat that consists of a servo mounted fan and LEDs. We came 
 
 
 Important!!
-You can find our Coolinter website code above also - The index.html and style.css is all realted to our website which explains about our team and the project coolinter3000
+You can find our Coolinter website code above also - The index.html and style.css is all realted to our website which explains about our team and the project coolinter3000. Checkout the website code in a better way link - https://github.com/codingFreak-Adisin/Umass-Coolinter3000
